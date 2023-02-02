@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>España</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../css/styles.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="stylesheet" href="../css/css.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- POPOVER -->
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+    </head>
+    <body id="page-top">
+        
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand" href="#page-top"><h1><span style="color:#AD1519;">S</span>PAIN</h1></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars ms-1"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#comunidades">Autonomous Communities</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#monumentos">monuments</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#playas">Bitches</a></li>
+						<li class="nav-item"><a class="nav-link" href="../ES/index.html"><i class="fa-solid fa-language"></i>ES</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    <!-- Masthead-->
+        <header class="masthead angled-gradient">
+            <div class="container">
+                <div class="masthead-subheading">OI! THIS IS SPAIN!</div>
+                <div class="masthead-heading text-uppercase">BEST PIECE OF LAND IN THE WORLD</div>
+            </div>
+        </header>
+        <!-- Comunidades Autonomas-->
+        <section class="page-section" id="comunidades">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Autonomous Communities</h2>
+                    <h3 class="section-subheading text-muted">Spain is organized into 17 Autonomous Communities and 2 cities with autonomy statute</h3>
+                </div>
+                <!--<div class="row text-center">
+                    <div class="col-md-4">
+                            <img src="../assets/img/comunidades.jpg" height="800" width="1000">
+                    </div>
+                </div>-->
+                
+                <table>
+                    <div class="roww">
+                        <tr>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismo.gal/inicio" title="Galicia" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Galicia es una comunidad autónoma española, considerada nacionalidad histórica según su estatuto de autonomía,​ situada en el noroeste de la península ibérica. Está formada por las provincias de La Coruña, Lugo, Orense y Pontevedra, que se componen de trescientos trece municipios agrupados en cincuenta y tres comarcas. La capital desde la aprobación del estatuto de autonomía en 1982, es la ciudad de Santiago de Compostela. Vigo es su municipio con más población y La Coruña el municipio más densamente poblado.">
+                                        <img data-src="../comunidades/galicia.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismoasturias.es/" title="Asturias" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="El Principado de Asturias es una comunidad autónoma uniprovincial de España.​ Bañada al norte por las aguas del mar Cantábrico, limita al oeste con la provincia de Lugo (Galicia), al sur con la provincia de León (Castilla y León) y al este con Cantabria. Recibe el nombre de Principado por razones históricas, al ostentar el heredero de la corona de Castilla y, por extensión, de la corona de España el título nobiliario de príncipe de Asturias.">
+                                        <img data-src="../comunidades/asturias.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://turismodecantabria.com/inicio" title="Cantabria" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Cantabria es una comunidad autónoma española de carácter uniprovincial, reconocida como comunidad histórica en su Estatuto de Autonomía.​ Limita al este con la provincia de Vizcaya (País Vasco), al sur con las provincias de Burgos, León y Palencia (Castilla y León), al oeste con el Principado de Asturias y al norte con el mar Cantábrico. La ciudad de Santander es su capital y municipio más poblado, seguido por Torrelavega.">
+                                        <img data-src="../comunidades/cantabria.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://turismo.euskadi.eus/es/" title="País Vasco" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="El País Vasco o Euskadi es una comunidad autónoma española, considerada nacionalidad histórica, situada en el extremo oriental de la costa del mar Cantábrico, limítrofe con Francia. Se compone de las provincias o territorios históricos de Álava, Guipúzcoa y Vizcaya. La ciudad más poblada es Bilbao, seguida por Vitoria y San Sebastián.">
+                                        <img data-src="../comunidades/euskadi.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://lariojaturismo.com/" title="La Rioja" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="La Rioja es una comunidad autónoma de España situada en el norte de la península ibérica. Su estatus administrativo está definido en el artículo primero de su estatuto de autonomía como identidad histórica. Abarca parte del valle del Ebro en su zona septentrional y del sistema Ibérico en el sur.">
+                                        <img data-src="../comunidades/rioja.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.visitnavarra.es/es/" title="Comunidad Foral de Navarra" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Navarra, denominada oficialmente Comunidad Foral de Navarra es una comunidad foral​ española de carácter uniprovincial situada en el norte de la península ibérica. Limita al nordeste con el departamento francés de Pirineos Atlánticos, al noroeste con el País Vasco (provincias de Álava y Guipúzcoa), al este y sureste con Aragón (provincias de Huesca y Zaragoza) y por el sur con La Rioja.">
+                                        <img data-src="../comunidades/navarra.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismodearagon.com/" title="Aragón" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Aragón es una comunidad autónoma del norte de España, resultante del reino histórico del mismo nombre y que comprende el tramo central del valle del Ebro, los Pirineos centrales y parte del sistema Ibérico. Está definida en su Estatuto de Autonomía como nacionalidad histórica.">
+                                        <img data-src="../comunidades/aragon.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismoencatalunya.es/" title="Cataluña" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Cataluña es una comunidad autónoma española, considerada nacionalidad histórica. Situada en el noreste de la península ibérica, ocupa un territorio de unos 32 000 km² que limita al norte con Francia y Andorra, al oriente con el mar Mediterráneo a lo largo de una franja marítima de unos 580 kilómetros,​ al sur con la Comunidad Valenciana (Castellón) y al occidente con Aragón (Teruel, Zaragoza y Huesca).">
+                                        <img data-src="../comunidades/catalunia.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismocastillayleon.com/" title="Castilla y León" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Castilla y León es una comunidad autónoma española, referida como «comunidad histórica y cultural» en su Estatuto de Autonomía. Se constituyó como preautonomía en 1978 y adquirió su estatus de comunidad autónoma en 1983. Su territorio se sitúa en la parte norte de la meseta de la península ibérica y se corresponde mayoritariamente con la parte española de la cuenca hidrográfica del Duero.">
+                                        <img data-src="../comunidades/cleon.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://turismomadrid.es/es/" title="Comunidad de Madrid" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="La Comunidad de Madrid es una comunidad autónoma española situada en el interior de la península ibérica, en la Submeseta Sur de la Meseta Central. Limita con las provincias de Ávila y Segovia en Castilla y León, así como con las de Toledo, Guadalajara y una pequeña parte de Cuenca en Castilla-La Mancha. La Comunidad de Madrid es uniprovincial, por lo que no existe diputación. Su capital, Madrid, es también la capital de España.">
+                                        <img data-src="../comunidades/madrid.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.comunitatvalenciana.com/es/inicio" title="Comunidad Valenciana" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="La Comunidad Valenciana es una comunidad autónoma española situada en el este de la península ibérica. Se constituyó formalmente en el año 1982, al aprobarse su Estatuto de Autonomía, y desde el año 2006 es considerada nacionalidad histórica,​ al amparo de lo dispuesto en el artículo segundo de la Constitución.">
+                                        <img data-src="../comunidades/valencia.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.illesbalears.travel/es/baleares/" title="Islas Baleares" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Las Islas Baleares​ son una comunidad autónoma uniprovincial española, compuesta por las islas del archipiélago balear. Se encuentra situado en el mar Mediterráneo, frente a la costa oriental de la península ibérica. Su capital es Palma.">
+                                        <img data-src="../comunidades/baleares.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="carta">
+                                    <a href="http://www.turismocastillalamancha.es/" title="Castilla-La Mancha" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Castilla-La Mancha es una comunidad autónoma de España, de acuerdo con su Estatuto de Autonomía y la Constitución española. Está formada por 919 municipios que integran las provincias de Albacete, Ciudad Real, Cuenca, Guadalajara y Toledo.">
+                                        <img data-src="../comunidades/cmancha.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismoextremadura.com/#" title="Extremadura" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Extremadura es una comunidad autónoma española situada en el centro-oeste de la península ibérica. Está compuesta por las dos provincias más extensas del país: Cáceres y Badajoz, cuyas capitales son sus dos ciudades más pobladas. La región, cuya población asciende a 1 059 501 habitantes (INE 2021), tiene su capital en Mérida.">
+                                        <img data-src="../comunidades/extremadura.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.turismoregiondemurcia.es/" title="Región de Murcia" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="La Región de Murcia es una comunidad autónoma uniprovincial de España, situada en el sureste de la península ibérica, que limita con Andalucía (Granada y Almería), con Castilla-La Mancha (Albacete), con la Comunidad Valenciana (Alicante) y con el mar Mediterráneo al sur y al este.">
+                                        <img data-src="../comunidades/murcia.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.andalucia.org/es/oferta-turistica" title="Andalucía" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Andalucía es una comunidad autónoma española reconocida como nacionalidad histórica por su Estatuto de Autonomía, compuesta por ocho provincias: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla. Su capital y ciudad más poblada es Sevilla, sede del Consejo de Gobierno de la Junta de Andalucía, del Parlamento y de la Presidencia de la Junta de Andalucía. La sede del Tribunal Superior de Justicia de Andalucía se encuentra en Granada.">
+                                        <img id="andalucia" data-src="../comunidades/andalucia.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                            <td></td>
+                            <td>
+                                <div class="carta">
+                                    <a href="https://www.holaislascanarias.com/" title="Islas Canarias" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="Canarias es un archipiélago situado en el océano Atlántico que conforma una comunidad autónoma española en el noroeste de África, con estatus de nacionalidad histórica. Es, además, una de las regiones ultraperiféricas de la Unión Europea.">
+                                        <img data-src="../comunidades/canarias.png"  alt="...">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    </div>
+                </table>
+            </div>
+        </section>
+        <!-- Monumentos-->
+        <section class="page-section bg-light" id="monumentos">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Monuments</h2>
+                    <h3 class="section-subheading text-muted">These are some of the most important monuments</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+
+                            <button onclick="window.location.href='https://www.alhambra-patronato.es/';" type="button" class="btn monumento" data-toggle="popover-monumento" title="ALHAMBRA" data-bs-content=
+                                "La Alhambra es un complejo monumental sobre una ciudad palatina andalusí 
+                                situado en Granada, España. Consiste en un conjunto de antiguos palacios, jardines y 
+                                fortalezas inicialmente concebido para alojar al emir y la corte del Reino Nazarí, 
+                                más tarde como residencia de los reyes de Castilla y de sus representantes.">
+
+                                    <img class="img-fluid" src="../assets/img/monumentos/1.jpg"  height="150" width="250"/>                            
+                                    <div class="portfolio-caption">
+                                        <div class="portfolio-caption-heading">ALHAMBRA</div>
+                                        <div class="portfolio-caption-subheading text-muted">Granada</div>
+                                    </div>
+                            </button>                  
+                        </div>           
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 5-->
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://mezquita-catedraldecordoba.es/';" type="button" class="btn monumento" data-toggle="popover-monumento" title="MEZQUITA DE CÓRDOBA" data-bs-content=
+                                "La Mezquita-Catedral de Córdoba o gran mezquita de Córdoba, también denominada
+                                 Catedral de Santa María Madre de Dios, desde el siglo XII, y Catedral de la Asunción 
+                                 de Nuestra Señora, desde el XVI, es un edificio monumental religioso e histórico de 
+                                 la ciudad de Córdoba, España.">
+
+                                <img class="img-fluid" src="../assets/img/monumentos/5.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">MEZQUITA DE CORDOBA</div>
+                                    <div class="portfolio-caption-subheading text-muted">Córdoba</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://www.turismodecordoba.org/alcazar-de-los-reyes-cristianos';" type="button" class="btn monumento text-justify" data-toggle="popover-monumento" title="ALCÁZAR DE LOS REYES CRISTIANOS" data-bs-content=
+                            "El Alcázar de los Reyes Cristianos, también conocido como Alcázar de Córdoba, es un alcázar
+                             medieval situado en el centro histórico de Córdoba, junto al río Guadalquivir
+                             y cerca de la Mezquita-Catedral. La fortaleza sirvió como una de las principales 
+                             residencias de Isabel I de Castilla y Fernando II de Aragón.">
+                                <img class="img-fluid" src="../assets/img/monumentos/Alcazar.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">ALCÁZAR DE LOS REYES CRISTIANOS</div>
+                                    <div class="portfolio-caption-subheading text-muted">Córdoba</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://historia.nationalgeographic.com.es/a/acueducto-segovia-es-mas-reciente-que-pensabamos_10826';" type="button" class="btn monumento text-justify" data-toggle="popover-monumento" title="ACUEDUCTO DE SEGOVIA" data-bs-content=
+                            "El Acueducto de Segovia es un acueducto romano que llevaba aguas a la ciudad española
+                             de Segovia hasta 1973. Su construcción data de principios 
+                             del siglo II d. C., a finales del reinado del emperador Trajano o 
+                             principios del de Adriano.">
+                                <img class="img-fluid" src="../assets/img/monumentos/3.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">ACUEDUCTO DE SEGOVIA</div>
+                                    <div class="portfolio-caption-subheading text-muted">Segovia</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://sagradafamilia.org/es/';" type="button" class="btn monumento" data-toggle="popover-monumento" title="SAGRADA FAMILIA" data-bs-content=
+                            "La Sagrada Familia, es una basílica católica de Barcelona (España), diseñada por
+                             el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está en construcción. Es la
+                             obra maestra de Gaudí y el máximo exponente de la arquitectura modernista catalana.
+                             Es uno de los monumentos más visitados de España, junto al Museo del Prado y la
+                             Alhambra de Granada, y es la iglesia más visitada de Europa tras la basílica de 
+                             San Pedro del Vaticano. Cuando esté finalizada, será la iglesia cristiana más alta
+                             del mundo.">
+
+                                <img class="img-fluid" src="../assets/img/monumentos/2.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">SAGRADA FAMILIA</div>
+                                    <div class="portfolio-caption-subheading text-muted">Barcelona</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://www.catedraldesevilla.es/la-catedral/edificio/la-giralda/';" type="button" class="btn monumento text-justify" data-toggle="popover-monumento" title="GIRALDA" data-bs-content=
+                            "Giralda es el nombre que recibe la torre campanario de la catedral de Santa María
+                             de la Sede de la ciudad de Sevilla, en Andalucía (España). La parte inferior de la
+                             torre corresponde al alminar de la antigua mezquita de la ciudad, de finales del
+                             siglo xii, en la época almohade, mientras que la parte superior es una construcción
+                             sobrepuesta en el siglo xvi, en época cristiana, para albergar las campanas. En su
+                             cúspide se halla la estatua de bronce que representa el Triunfo de la Fe y que tiene función
+                             de veleta, el Giraldillo.">
+                                <img class="img-fluid" src="../assets/img/monumentos/4.jpg"  height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">GIRALDA</div>
+                                    <div class="portfolio-caption-subheading text-muted">Sevilla</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://www.esmadrid.com/informacion-turistica/puerta-de-alcala';" type="button" class="btn monumento text-justify" data-toggle="popover-monumento" title="PUERTA DE ALCALA" data-bs-content=
+                            "La puerta de Alcalá es una de las cinco antiguas puertas reales que daban acceso
+                             a la ciudad de Madrid. Se encuentra situada en el centro de la rotonda de la Plaza
+                             de la Independencia.">
+                                <img class="img-fluid" src="../assets/img/monumentos/6.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">PUERTA DE ALCALA</div>
+                                    <div class="portfolio-caption-subheading text-muted">Madrid</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='https://catedraldezaragoza.es/basilica/';" type="button" class="btn monumento text-justify" data-toggle="popover-monumento" title="BASÍLICA DEL PILAR" data-bs-content=
+                            "La catedral-basílica de Nuestra Señora del Pilar o Santo Templo Metropolitano de Nuestra 
+                             Señora del Pilar es una de las dos seos o catedrales metropolitanas de la 
+                             archidiócesis de Zaragoza, junto con la Seo del Salvador, además de 
+                             basílica menor. Habitualmente es llamada simplemente «basílica del Pilar» o «el Pilar».">
+                                <img class="img-fluid" src="../assets/img/monumentos/BasilicaPilar.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">BASÍLICA DEL PILAR</div>
+                                    <div class="portfolio-caption-subheading text-muted">Zaragoza</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="portfolio-item">
+                            <button onclick="window.location.href='http://catedraldesantiago.es/';" type="button" class="btn monumento text-justify" data-toggle="popover-monumento" title="CATEDRAL DE SANTIAGO" data-bs-content=
+                            "La Santa Apostólica y Metropolitana Iglesia Catedral de Santiago de Compostela es un templo
+                             de culto católico situado en la ciudad homónima, en el centro de la provincia de La Coruña,
+                             en Galicia.">
+                                <img class="img-fluid" src="../assets/img/monumentos/CatedralSantiago.jpg" height="150" width="250" />
+                                <div class="portfolio-caption">
+                                    <div class="portfolio-caption-heading">CATEDRAL DE SANTIAGO</div>
+                                    <div class="portfolio-caption-subheading text-muted">Santiago de Compostela</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <!-- Playas-->
+        <section class="page-section bg-light" id="playas">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">GRATEST BITCHES&nbsp;</h2>
+
+
+
+
+
+                     <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid " src="../assets/img/playas/1.jpg" alt="..." />
+                            <h4>Playa de los Muertos</h4>
+                        </div>
+                    </div>
+                    <!-- Portfolio Modal 1-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Playa de los Muertos</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="../assets/img/playas/1.jpg" alt="https://www.booking.com/hotel/es/carretera-de-carboneras.es.html?aid=318615&label=New_Spanish_ES_ES_21463013185-Ef2MTHDoOdQBUxegTcaTIwS640819080174%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=fc822863d0f19f9fd1aced5e0e4b4697" />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Cabo de Gata</p>
+                                    <p>La playa de Los Muertos es una enorme playa totalmente recta de más de un kilómetro de longitud y que tiene el agua más azul y cristalina de la zona. Esta hermosa playa aparece en casi todas las lista de las mejores playas de España. Entre sus virtudes destaca el agua, de azul intenso, la arena, muy agradable porque no te reboza pero tampoco tiene piedras grandes, y el aislamiento, está lejos de cualquier pueblo, y a mitad de camino entre Agua Amarga y Carboneras.</p>
+                                    <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
+                                        <i class="fas fa-times fa-fw"></i>
+                                        Cerrar ventana
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <!-- Portfolio Item 4-->
+                    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="../assets/img/playas/2.jpg" alt="..." />
+                            <h4>Playa de Zahora</h4>
+                        </div>
+                    </div>
+                    <!-- Portfolio Modal 4-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" aria-labelledby="portfolioModal4" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">PLaya de Zahora</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="../assets/img/playas/2.jpg" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">No nos cansaremos de decir que para nosotros uno de los lugares que más nos gustan de nuestro país es la comunidad andaluza y, dentro de ella, nuestra provincia favorita es Cádiz. A estas alturas podemos decir totalmente convencidos que somos unos enamorados de sus pueblos y ciudades, de sus costas y playas, de su gente, su gastronomía y un largo etcétera, por eso la Semana Santa de hace unos años estuvimos nuestra primera escapada en pareja y regresamos veranos después a pasar un mes allí con la pequeña Olivia con apenas 1 año y medio. ¿Queréis saber después de tantos días cual es nuestro lugar favorito, el que podríamos considera rincón secreto de Cádiz de desconexión particular? Es este, tanto a primera hora como a última, la playa de Zahora</p>
+                                    <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
+                                        <i class="fas fa-times fa-fw"></i>
+                                        Cerrar ventana
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <!-- Portfolio Item 5-->
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal5">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid " src="../assets/img/playas/3.jpg" alt="..." />
+                            <h4>Playa del Retín</h4>
+                        </div>
+                    </div>
+                   
+                </div>
+<!-- Portfolio Modal 5-->
+<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" aria-labelledby="portfolioModal5" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+            <div class="modal-body text-center pb-5">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <!-- Portfolio Modal - Title-->
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Playa del Retín</h2>
+                            <!-- Icon Divider-->
+                            <div class="divider-custom">
+                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                <div class="divider-custom-line"></div>
+                            </div>
+                            <!-- Portfolio Modal - Image-->
+                            <img class="img-fluid rounded mb-5" src="../assets/img/playas/3.jpg" alt="..." />
+                            <!-- Portfolio Modal - Text-->
+                            <p class="mb-4">Se accede a la Playa El Retín o Pajares mediante un carril que parte del kilómetro 5 de la carretera que une Barbate y Zahara de los Atunes.
+                                Debido a su carácter militar, esta playa permanece cerrada al público gran parte del año, permitiendo solo el acceso al personal civil en los meses estivales, por lo que presenta una imagen única en España.
+                            </p>
+                            <button class="btn btn-primary" href="https://www.booking.com/hotel/it/sonomusica-b-amp-b.es.html?aid=303946&label=costa-it-swIuBbKTLM29Sc4mSGqyaAS630500789663%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-450922465%3Alp1005406%3Ali%3Adec%3Adm&sid=fc822863d0f19f9fd1aced5e0e4b4697&dest_id=-116418;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1674667208;srpvid=523879e3d8f50040;type=total;ucfs=1&#hotelTmpl" data-bs-dismiss="modal">
+                                <i class="fas fa-times fa-fw"></i>
+                                Hotel
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </section>
+        <!-- Footer-->
+        <footer class="footer py-4">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 text-lg-start">Copyright &copy; España 2022</div>
+                    <div class="col-lg-4 text-lg-end">
+                        <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
+                        <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Portfolio Modals-->
+        <!-- Portfolio item 1 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/1.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Threads
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Illustration
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 2 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/2.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Explore
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Graphic Design
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 3 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/3.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Finish
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Identity
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 4 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/4.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Lines
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Branding
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 5 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/5.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Southwest
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Website Design
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 6 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/6.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Window
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Photography
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="../js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
